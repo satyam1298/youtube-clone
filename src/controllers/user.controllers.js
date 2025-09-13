@@ -302,7 +302,7 @@ export {
   updateUserAvatar,
   updateUserCover,
   getUserChannelProfile,
-  getUserChannelProfile,
+  generateAccessAndRefreshToken,
   getWatchHistory
 
 };
